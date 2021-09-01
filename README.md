@@ -10,5 +10,5 @@ Execution steps (to run in local):
 
 Click here to view the [Interactive Visualization](https://gmadhu89.github.io/frequency-polygon/)
 
-![Snapshot of Interactive Frequency Polygon](https://github.com/gmadhu89/academic-projects/edit/main/interactive-frequency-polygon/interactive.JPG?raw=true "Snapshot Interactive Polygon")  
+![Snapshot of Interactive Frequency Polygon](https://github.com/gmadhu89/frequency-polygon/blob/main/interactive.JPG?raw=true "Snapshot Interactive Polygon")  
 
