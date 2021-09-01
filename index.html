@@ -61,7 +61,7 @@ var svg2 = d3.select("body").append("svg")
 
 
 // GETTING THE DATA
-    var pathToCsv = "average-rating.csv";
+    var pathToCsv = "input.csv";
     var yearParse = d3.timeParse("%Y");
 
     d3.dsv(",", pathToCsv, function (d) {
