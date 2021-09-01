@@ -1,7 +1,7 @@
 Generated an interactive frequency polygon line chart using d3.js to visualize a dataset containing list of games, their ratings, and supporting information like number of user rated, year published etc.   
 
-Input data set : average-rating.csv  
-Code: interactive.html  
+Input data set : input.csv  
+Code: index.html  
 
 Execution steps (to run in local):    
 1) Copy the lib/ folder to your local.  
